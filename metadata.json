@@ -1,0 +1,8 @@
+{
+  "name": "Remix Capacity Connect",
+  "description": "Connecting People • Building Competencies • Strengthening Organizations — Enterprise Capacity Building \u0026 Competency Mapping LMS",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
